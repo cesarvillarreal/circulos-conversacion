@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d367031d.chunk.css",
+    "main.js": "/static/js/main.36638d0f.chunk.js",
+    "main.js.map": "/static/js/main.36638d0f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d0de6ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d0de6ca.js.map",
+    "static/css/2.1e562a76.chunk.css": "/static/css/2.1e562a76.chunk.css",
+    "static/js/2.225e94ef.chunk.js": "/static/js/2.225e94ef.chunk.js",
+    "static/js/2.225e94ef.chunk.js.map": "/static/js/2.225e94ef.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1e562a76.chunk.css.map": "/static/css/2.1e562a76.chunk.css.map",
+    "static/css/main.d367031d.chunk.css.map": "/static/css/main.d367031d.chunk.css.map",
+    "static/js/2.225e94ef.chunk.js.LICENSE.txt": "/static/js/2.225e94ef.chunk.js.LICENSE.txt",
+    "static/js/main.36638d0f.chunk.js.LICENSE.txt": "/static/js/main.36638d0f.chunk.js.LICENSE.txt",
+    "static/media/ayo-ogunseinde-2.jpg": "/static/media/ayo-ogunseinde-2.f4af8f2c.jpg",
+    "static/media/clem-onojeghuo-2.jpg": "/static/media/clem-onojeghuo-2.d16702ce.jpg",
+    "static/media/clem-onojeghuo-3.jpg": "/static/media/clem-onojeghuo-3.83003f44.jpg",
+    "static/media/daniel-olahh.jpg": "/static/media/daniel-olahh.77c0ffac.jpg",
+    "static/media/erik-lucatero-2.jpg": "/static/media/erik-lucatero-2.d09715ab.jpg",
+    "static/media/fabio-mangione.jpg": "/static/media/fabio-mangione.488bc249.jpg",
+    "static/media/grupal.jpg": "/static/media/grupal.a6ab90d9.jpg",
+    "static/media/joe-gardner-2.jpg": "/static/media/joe-gardner-2.09841708.jpg",
+    "static/media/login-image.jpg": "/static/media/login-image.21e8ba3f.jpg",
+    "static/media/logo.png": "/static/media/logo.4639f2e3.png",
+    "static/media/paper-kit.scss?v=1.3.0": "/static/media/nucleo-icons.ec16bc4c.woff2",
+    "static/media/pexels-ketut-subiyanto-4474047.jpg": "/static/media/pexels-ketut-subiyanto-4474047.b7705ff9.jpg",
+    "static/media/pexels-sam-lion-6002000.jpg": "/static/media/pexels-sam-lion-6002000.89a96fc6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d0de6ca.js",
+    "static/css/2.1e562a76.chunk.css",
+    "static/js/2.225e94ef.chunk.js",
+    "static/css/main.d367031d.chunk.css",
+    "static/js/main.36638d0f.chunk.js"
+  ]
+}
