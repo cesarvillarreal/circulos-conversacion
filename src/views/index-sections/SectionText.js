@@ -1,4 +1,3 @@
-// import React from 'react';
 import { Container, Row, Col } from "reactstrap";
 
 const SectionServices = () => {
@@ -24,7 +23,7 @@ const SectionServices = () => {
           <Col md="6">
             <p
               style={{
-                textAlign: "justify",
+                textAlign: "center",
                 color: "black",
                 fontSize: "1.2rem",
               }}
@@ -32,11 +31,20 @@ const SectionServices = () => {
               Saber hablar inglés ya no es un lujo, sino una necesidad. Es
               importante seguir practicando el inglés aún después de haber
               terminado un curso de gramática, ya que la única manera de
-              dominarlo es usándolo frecuentemente. Más que una clase de inglés
-              tradicional, ofrecemos el espacio para que puedas desenvolverte en
-              la conversación con maestros expertos en el tema y en un ambiente
-              ameno, en el cual podrás mejorar tu pronunciación, estructura y
-              vocabulario.
+              dominarlo es usándolo frecuentemente.
+            </p>
+            <p
+              style={{
+                textAlign: "center",
+                color: "black",
+                fontSize: "1.2rem",
+              }}
+            >
+              <br />
+              Más que una clase de inglés tradicional, ofrecemos el espacio para
+              que puedas desenvolverte en la conversación con maestros expertos
+              en el tema y en un ambiente ameno, en el cual podrás mejorar tu
+              pronunciación, estructura y vocabulario.
             </p>
           </Col>
           <Col md="6">

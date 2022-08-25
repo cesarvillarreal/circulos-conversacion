@@ -5,7 +5,6 @@
     "axios": "^0.27.2",
     "classnames": "2.2.6",
     "moment": "2.29.1",
-    "node-sass": "^5.0.0",
     "nouislider": "14.6.4",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -15,6 +14,7 @@
     "react-scripts": "4.0.3",
     "react-toastify": "^9.0.7",
     "reactstrap": "8.9.0",
+    "sass": "^1.54.5",
     "smtpjs": "^0.0.1"
   },
   "scripts": {
@@ -53,7 +53,7 @@
   },
   "engines": {
     "npm": ">=8.5.2",
-    "node": "14.17.6"
+    "node": "16.16.0"
   },
   "description": "Paper Kit React is a free Bootstrap 4, React, React Hooks and Reactstrap UI Kit with pale colors, beautiful typography and thoughtful drawings. We've created it having paper and drawings in mind.",
   "main": "src/assets/scss/paper-kit.scss",

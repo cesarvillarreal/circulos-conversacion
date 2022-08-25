@@ -1,6 +1,4 @@
-// import axios from 'axios';
 import { useState, forwardRef } from "react";
-// reactstrap components
 import {
   Button,
   Form,
